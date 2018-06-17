@@ -10,6 +10,8 @@ $(function(){
   	},
   	activePagerClass: 'sliderativadinho'  
   });
+});
+$(function(){
   //Efeitos Jquery no Menu
   $('.dropbtn').hover(function(){
     $('.dropdown-content').fadeIn(500);
